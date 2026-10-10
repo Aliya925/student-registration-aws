@@ -1,0 +1,8 @@
+.env
+.env.*
+flaskapp.env
+*.pem
+__pycache__/
+*.pyc
+venv/
+.venv/
